@@ -5,7 +5,7 @@ on:
     branches: [ main ]
 
 env:
-  EKS_CLUSTER_NAME: music-cluster-0716
+  EKS_CLUSTER_NAME: music-cluster-0716  # 클러스터 이름
   DEPLOYMENT_NAME: music-deployment
 
 jobs:
